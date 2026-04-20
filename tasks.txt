@@ -1,0 +1,4 @@
+build a login system in python
+create a REST API using fastapi
+refactor a simple calculator module
+write a file uploader system
