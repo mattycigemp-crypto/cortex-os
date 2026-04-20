@@ -1,4 +1,4 @@
-build a login system in python
-create a REST API using fastapi
-refactor a simple calculator module
-write a file uploader system
+build a login API with fastapi
+create a simple todo backend
+refactor authentication module
+add file upload endpoint
